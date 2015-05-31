@@ -10,7 +10,7 @@ exclude: [bin,README.md]
 
 timezone: CEST
 
-languages: ["en", "en"]
+languages: ["en"]
 
 description: global.website.description
 
