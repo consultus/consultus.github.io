@@ -1,0 +1,25 @@
+name: global.website.name
+highlighter: pygments
+url:
+    en: http://localhost:4000/
+    sr: http://www.consultus.rs
+    ru: http://www.consultus.rs
+
+include: [.htaccess]
+exclude: [bin,README.md]
+
+timezone: CEST
+
+languages: ["en", "en"]
+
+description: global.website.description
+
+excerpt_separator: N/A-------N/A... Workaround for https://github.com/mojombo/jekyll/issues/1401
+
+
+
+# Custom works different.
+sitenavigation:
+  - name: About
+  - name: Services
+  - name: Contact
